@@ -1,0 +1,173 @@
+=====Map3===== (OP3)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+Woah, it got this dark outside already?
+##
+
+#Message#
+Touch spots that look interesting to investigate.
+##
+
+-----Page3-----
+#Message#
+\.\C[4](Seeing the school like this... It feels 
+totally different at night.)
+##
+
+#Message#
+\.\C[4](The lights...)
+##
+
+#Message#
+\.\C[4](...I have to walk home when it's this 
+dark...?)
+##
+
+
+**********Event14********** (ike) (5,6)
+-----Page1-----
+#Message#
+\C[3]The campus pond.
+##
+
+#Message#
+\.\C[3]There's a rumor that if you look into it at 
+midnight, your reflection will talk to you.
+##
+
+#Message#
+\.\C[4](...Could be a great thing to a loner.)
+##
+
+
+**********Event16********** (mado) (12,4)
+-----Page1-----
+#Message#
+\C[3]The lights are on. Maybe it's the guard.
+##
+
+#Message#
+\.\C[4](Thanks for your tireless service.)
+##
+
+-----Page2-----
+#Message#
+\C[3]The lights are out.
+##
+
+
+**********Event17********** (kage) (3,6)
+-----Page1-----
+#Message#
+\C[3]The front gate of the school.
+Can't go home without going through it.
+##
+
+-----Page2-----
+#Message#
+\C[3]The front gate of the school.
+Can't go home without going through it.
+##
+
+#Message#
+\.\C[4](I don't... want to leave yet.)
+##
+
+-----Page3-----
+#Message#
+\C[10]Someone's there...\|\.\.\^
+##
+
+#Message#
+Whatcha doin’, Sara?
+##
+
+#Message#
+\.Joe...!
+##
+
+#Message#
+\C[2]Joe Tazuna\C[0], or rather, \C[2]Joe\C[0].
+\C[0]My classmate at school. We often found ourselves 
+together.
+##
+
+#Message#
+You spent all this time doing club activities!? 
+Man, I got so bored waiting on you!
+##
+
+#Message#
+Well, whatever! 
+\.Anyways! \|I gotta tell you something!
+##
+
+#Message#
+\.Okay, what is it?
+##
+
+#Message#
+\.Thank you!
+##
+
+#Message#
+\.Thanks? What for?
+##
+
+#Message#
+\.C’mon, you know why! For introducing me to Ryoko!
+##
+
+#Message#
+\.Right…
+##
+
+#Message#
+\.She’s so amazing and adorable! Oh… my heart!
+##
+
+#Message#
+\.That cute, huh?
+##
+
+#Message#
+\.Hella cute!!
+##
+
+#Message#
+\.Earlier today, she swallowed a whole doner 
+kebab in one go, it was awesome! 
+She’s such a glutton~!
+##
+
+#Message#
+\.Yeah, sounds awesome...
+##
+
+#Message#
+\.Wait...　You guys went on a date together!?
+##
+
+#Message#
+\.Heheheh… Yep, just walked her back home!
+##
+
+#Message#
+\.Figured I’d come all the way back to school just 
+to brag to ya!
+##
+
+#Message#
+\.Thanks...
+##
+
+#Message#
+\.Hey, anytime! Mission accomplished!
+##
+
+#Message#
+\.Alright, let’s head home!
+##
+

@@ -1,0 +1,76 @@
+=====Map10===== (OP8　自室)
+
+**********Event2********** (heya) (7,4)
+-----Page1-----
+#Message#
+\C[3]It's locked.
+##
+
+#Message#
+\C[4](I'll open it...)
+##
+
+#Message#
+\.\C[4]（誰かが入ってカギをかけた…？）
+##
+
+#Message#
+\.\C[4]（お父さん…じゃないよね…）
+##
+
+#Message#
+\C[3]Used the \C[2]Room Key\C[3].
+##
+
+#Message#
+\C[3]The door opened.
+##
+
+-----Page2-----
+#Message#
+DAD!? DAD PLEASE HELP!
+##
+
+#Message#
+\.MOM’S HURT, SHE NEEDS YOU! DAD!...WHERE ARE-...
+##
+
+#Message#
+\|\|\^
+##
+
+#Message#
+\|\^
+##
+
+#Message#
+\|\.\.\^
+##
+
+#Message#
+\|\|\|\^
+##
+
+#Message#
+　　\SP[5]Your Turn To Die - Death Game By Majority -\|\|\|\^
+##
+
+#Message#
+　　　　　　　　　　\SP[5]A Nankidai Production\|\|\|\^
+##
+
+#Message#
+　　　　　　　　　　\SP[5]Dubbed by Calizaworks\|\|\|\^
+##
+
+#Message#
+\|\|\|\|\|\^
+##
+
+
+**********Event3********** (EV003) (15,11)
+-----Page1-----
+#Message#
+\C[3]サラの部屋のカギだ。
+##
+

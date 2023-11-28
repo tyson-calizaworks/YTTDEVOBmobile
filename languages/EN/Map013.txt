@@ -1,0 +1,192 @@
+=====Map13===== (暗い廊下)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+Damn, it’s pitch black in here.
+##
+
+#Message#
+\.Yeah, I can’t see anything.
+##
+
+#Choice#
+Walk along the walls.
+We should stay put...
+##
+
+<Walk along the walls.>
+
+#Message#
+It stops here on the left… Looks like we’re gonna 
+have to try the right side.
+##
+
+<We should stay put...>
+
+#Message#
+Hey, don’t mess around right now… Even though we got 
+outta that death trap, there’s no way we’d get off 
+that easy.
+##
+
+#Message#
+\.\C[4](Joe seems pretty restless...)
+##
+
+#Message#
+\.Please, stay close to me, alright? I don’t wanna 
+lose you.
+##
+
+#Message#
+\.Okay...
+##
+
+#Message#
+\.\C[3]We kept going straight ahead...
+##
+
+#Message#
+\.\C[3]But as far as we walked, we didn't see any 
+light. 
+##
+
+#Message#
+\.\C[3]It seemed to be a very... very long hallway. 
+Or maybe we weren't advancing much at all...
+##
+
+#Message#
+\.Hey... Joe?
+##
+
+#Choice#
+Use cellphone light.
+Run with all our might!
+##
+
+<Use cellphone light.>
+
+#Message#
+The cell phone from earlier... Does it have a light we 
+can use to look around?
+##
+
+#Message#
+\.Oh yeah! Hey, good thinkin’ there, Sara!
+##
+
+#Message#
+\.Thanks, so where is it?
+##
+
+#Message#
+\.Shit… I left it in the room.
+##
+
+#Message#
+\.Welp… I guess that’s that.
+##
+
+#Message#
+\.Hmm… I wonder if there’s something else we can 
+use...
+##
+
+#Message#
+\.\C[3]We were searching ourselves, when suddenly...
+##
+
+<Run with all our might!>
+
+#Message#
+I don’t hear anything. Maybe we should try running 
+before someone catches up to us.
+##
+
+#Message#
+\.Eh, not too big on that idea, but… alright. I trust 
+ya.
+##
+
+#Message#
+\....Uh… Can I ask something first?
+##
+
+#Message#
+\.What is it?
+##
+
+#Message#
+\.You run way faster than I do… right?
+##
+
+#Message#
+\.I’d never leave you behind, Joe.
+##
+
+#Message#
+\.Okay… on the count of three.
+##
+
+#Message#
+\.One… Two…
+##
+
+#Message#
+\.\C[3]Just as we were about to run, suddenly...
+##
+
+#Message#
+\.Wha?!
+##
+
+#Message#
+\.W-...Whoa?!
+##
+
+#Message#
+\.\C[3]Wind blowing from underneath...?!
+##
+
+#Message#
+\.\C[3]My feet left the ground. 
+##
+
+#Message#
+\.\C[3]Am I flying up...?
+##
+
+#Message#
+\.SHIT!! ARE WE FALLING!?
+##
+
+#Message#
+\.\C[3]The floor gave way...!
+##
+
+#Message#
+\.AAAAAAAAAAAAAAAAAAHHHHHHHHH!!
+##
+
+#Message#
+\.\C[3]How long...?
+##
+
+#Message#
+\.\C[3]How high...?
+##
+
+#Message#
+\.\C[3]How far are we falling...?
+##
+
+#Message#
+\.\C[3]I feel... my senses growing distant...
+##
+
+#Message#
+\.Hey. Get up.
+##
+

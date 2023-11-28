@@ -1,0 +1,115 @@
+=====Map8===== (OP6　家廊下)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+It’s so dark… Why didn’t they leave them on for 
+me?...
+##
+
+#Message#
+\....Mom! ...Dad! ...Guess they haven’t gotten back 
+yet.
+##
+
+-----Page3-----
+#Message#
+Sara!!
+##
+
+#Message#
+\.Joe!
+##
+
+#Message#
+\.Oh my god, please, help me! My mom, she’s 
+unconscious I-...I don’t know what to do!
+##
+
+#Message#
+\.Calm down, Sara. We’ll figure this out! Have you 
+called an ambulance or the police?!
+##
+
+#Message#
+\.N-No, I!... Call...I have to call...
+##
+
+#Message#
+\.I got it but listen, Sara. You need to calm down, 
+just breathe.
+##
+
+#Message#
+\C[3]Joe started to make a call.
+##
+
+#Message#
+\C[4](What am I doing...? I'm all out of sorts...)
+##
+
+#Message#
+\C[4](But I need to do something... Something...)
+##
+
+
+**********Event2********** (kan) (6,6)
+-----Page1-----
+#Message#
+\C[3]The plant's fallen over...
+##
+
+#Message#
+\.\C[4](Something's weird about the house...)
+##
+
+
+**********Event3********** (dan) (9,3)
+-----Page1-----
+#Message#
+\C[3]２階へ続く階段だ。
+２階には自分の部屋と、両親の部屋がある。
+##
+
+
+**********Event5********** (EV005) (15,11)
+-----Page1-----
+#Message#
+\C[3]サラの部屋のカギだ。
+##
+
+
+**********Event13********** (oya) (3,4)
+-----Page1-----
+#Message#
+\C[3]こっちにはトイレがある。
+##
+
+
+**********Event14********** (ribi) (12,4)
+-----Page1-----
+#Message#
+\C[3]リビングルームだ。
+##
+
+#Message#
+\C[3]普段ならお母さんがテレビでも見ながら
+待ってるハズだが…
+##
+
+-----Page2-----
+#Message#
+\C[3]リビングルームだ。
+##
+
+#Message#
+\C[3]お母さんが…お母さんが…
+##
+
+
+**********Event15********** (TOTO) (11,4)
+-----Page1-----
+#Message#
+\C[3]奥には両親の部屋につながる扉がある。
+##
+

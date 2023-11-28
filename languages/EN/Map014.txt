@@ -1,0 +1,468 @@
+=====Map14===== (中央広場)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+Hellooo?
+##
+
+#Message#
+\.Miss? Now’s not the time to be a space case.
+##
+
+#Message#
+\.Ugh...
+##
+
+#Message#
+\.Where are we?…
+##
+
+#Message#
+\.Beats me…
+##
+
+#Message#
+\.Ah…
+##
+
+#Message#
+\....
+##
+
+#Message#
+\.\C[3]I'm alive...
+##
+
+#Message#
+\.\C[3]I'm not even hurt...
+##
+
+#Message#
+\.\C[4](!! People...!)
+##
+
+#Message#
+Who the hell are you guys?!
+What is this bullshit?!
+##
+
+#Message#
+\.Like we got any idea ourselves!
+　Calm down, lady!
+##
+
+#Message#
+\.Can anyone seriously not explain what’s going on?
+##
+
+#Message#
+\.By the looks of it, yes. How troubling...
+##
+
+#Message#
+\.\C[3]They seem too distracted to take any notice of 
+me.
+##
+
+#Message#
+\.\C[4](What in the world... is happening?)
+##
+
+
+**********Event2********** (naka) (8,4)
+-----Page1-----
+#Message#
+\C[3]In the center, there's a discussion happening 
+centered around a single man.
+##
+
+#Message#
+Before we get carried away, we should confirm what 
+each of us already knows.
+##
+
+#Message#
+Yeah, I get that! 
+But, I don’t even know where this is!
+##
+
+#Message#
+We ran into quite a horrific experience earlier… 
+I’m afraid I can’t calm down at the moment…
+##
+
+#Message#
+\.\C[3]They seem pretty confused.
+##
+
+#Message#
+\.\C[4](Huh...?)
+##
+
+#Message#
+\C[4](Joe...?)
+##
+
+#Message#
+\.\C[4](He's also wearing... one of those
+\C[2]collars\C[4]…？）
+##
+
+#Message#
+\.\C[3]With a shiver, I touched my own neck.
+##
+
+#Message#
+\.\C[3]There was... something...
+##
+
+#Message#
+\.\C[4](A collar...?!)
+##
+
+#Message#
+\.\C[4](Can't... get it off...!)
+##
+
+#Message#
+\.\C[3]Everyone here had a collar put on them...!
+##
+
+-----Page2-----
+#Message#
+\C[3]The discussion centered around the man in the 
+middle continues.
+##
+
+#Message#
+\.\C[4](Joe's there too, but he can't get a word in.)
+##
+
+-----Page3-----
+#Message#
+\C[3]Their discussion was still going on.
+##
+
+#Message#
+\.\C[3]Finally, my head was starting to clear.
+##
+
+#Message#
+\.\C[4](There are \C[2]11 people\C[4] here, including 
+myself...)
+##
+
+#Message#
+\.\C[4](All of us are wearing \C[2]collars\C[4]…）
+##
+
+#Message#
+\.\C[4]（…）
+##
+
+#Message#
+\.\C[4](...Why isn't Joe coming over to me?) 
+##
+
+#Message#
+\.\C[4](Has he not noticed I'm awake?)
+##
+
+#Choice#
+Call for Joe
+Run up and punch Joe
+##
+
+<Call for Joe>
+
+#Message#
+\.Joe!
+##
+
+#Message#
+\.......?
+##
+
+#Message#
+\.I’m so glad you’re okay.
+##
+
+<Run up and punch Joe>
+
+#Message#
+\....Joe!
+##
+
+#Message#
+\.OWW!!
+##
+
+#Message#
+\.Sorry, maybe that was too much force…
+　\!I’m just glad you’re okay.
+##
+
+#Message#
+\.「…」
+##
+
+#Message#
+\.Who’re you?
+##
+
+#Message#
+\.Huh…?! \.\.
+##
+
+#Message#
+\.\C[3]What kind of joke was that...
+##
+
+#Message#
+\.What are you saying!? It’s me, Sara! Did you 
+seriously forget what your best friend looks like?!
+##
+
+#Message#
+\....
+##
+
+#Message#
+\.\C[4](Don't tell me... He's seriously saying he 
+doesn't know me or something...?)
+##
+
+#Message#
+\.......
+##
+
+#Message#
+\.Hold up, could you be\fi the\fi Sara!? 
+The worst swimmer known to mankind?
+##
+
+#Message#
+\.Uh...?
+##
+
+#Message#
+\.J-Joe! Don’t joke around like that, 
+this is serious!!
+##
+
+#Message#
+\.Sorry, my bad!
+##
+
+#Message#
+Hmmm...
+##
+
+#Message#
+\.Joe and Sara, eh?
+##
+
+#Message#
+\.And you two are… best friends?
+##
+
+#Message#
+\.Huh…? 
+##
+
+#Message#
+\.Uh… Yeah. We are…?
+##
+
+#Message#
+\.Well, thanks for your help. 
+Your pal Joe here wasn’t saying a word.
+##
+
+#Message#
+\.Must’ve been wary of something… 
+Wouldn’t even tell me his name.
+##
+
+#Message#
+\.......
+##
+
+#Message#
+\.Alright everybody. Listen up.
+##
+
+#Message#
+\.I can assume that we’re all thinking the same thing.
+##
+
+#Message#
+\.“What is this place? Why was I brought here?”
+##
+
+#Message#
+\.All we know right now is who we are… 
+And that’s about it.
+##
+
+#Message#
+\.Oh? 
+And what do you have to say about our predicament?
+##
+
+#Message#
+\.How about we \C[2]give introductions\C[0]?
+Should ease the suspicion a little, at least.
+##
+
+#Message#
+\.Introductions? Hm…
+##
+
+#Message#
+\.I mean, not a whole lot else we can do.
+##
+
+#Message#
+\.What do you think, little miss Sara?
+##
+
+#Message#
+\.Huh? You’re asking me?
+##
+
+#Choice#
+I support it
+Don't get friendly with me
+##
+
+<I support it>
+
+#Message#
+\.Yeah… I’d be a lot more comfortable getting to know 
+everybody here.
+##
+
+#Message#
+\.See? The calm ones always know what to say.
+##
+
+<Don't get friendly with me>
+
+#Message#
+\.Please don’t call me “little miss.” 
+It’s kinda creepy coming from a total stranger.
+##
+
+#Message#
+\.All the more reason for introductions.
+##
+
+#Message#
+\.With that being said. Once you’re ready, 
+it’ll be introduction time. 
+Just tell me when, Sara.
+##
+
+-----Page4-----
+#Message#
+Well then. Everyone ready for introductions?
+##
+
+#Choice#
+Yes
+No
+##
+
+<Yes>
+
+<No>
+
+#Message#
+Okie-dokie.
+##
+
+
+**********Event3********** (migi) (13,4)
+-----Page1-----
+#Message#
+\C[3]Looking right, I notice an especially restless 
+woman.
+##
+
+#Message#
+Damn it! We were kidnapped by some crazy assholes!
+##
+
+#Message#
+\.Be quiet, meow!! You’re screaming in my ear, woof!!
+##
+
+#Message#
+\.H… hey now… Fighting’s not gonna get us anywhere.
+##
+
+#Message#
+\.\C[3]I could feel the tension in the air.
+##
+
+#Message#
+\.\C[4](There's even a grade-school-age kid...?)
+##
+
+-----Page2-----
+#Message#
+\C[3]I can feel the tension in the air.
+##
+
+#Message#
+\.\C[4](I'm getting increasingly uneasy myself...)
+##
+
+
+**********Event4********** (hidari) (3,4)
+-----Page1-----
+#Message#
+\C[3]Some slightly calmer people are talking on the 
+left.
+##
+
+#Message#
+What’s goin’ on? Feels like we're wrapped up in 
+somethin’ serious.
+##
+
+#Message#
+Yes… That seems to be the case.
+##
+
+#Message#
+\.\C[4](Huh... Have I seen this person somewhere?)
+##
+
+#Message#
+......
+##
+
+#Message#
+\.\C[3]The girl squatting seems terribly frightened.
+##
+
+#Message#
+\.\C[4](Did something happen...?!)
+##
+
+-----Page2-----
+#Message#
+\C[3]There's two men keeping a watchful eye...
+##
+
+#Message#
+\C[3]And a terrified girl.
+##
+
+#Message#
+\.\C[4](That's no ordinary sort of fear...)
+##
+

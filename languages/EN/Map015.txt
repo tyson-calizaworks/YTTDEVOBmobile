@@ -1,0 +1,47 @@
+=====Map15===== (自己紹介タイム)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+\n<Blonde Man>Now then, I think it’s time we get to know each other 
+a little better.
+##
+
+#Message#
+\.Why meow? My Mommy said to never, ever give my 
+personal information out to strangers!
+##
+
+#Message#
+\.How wonderful! Listening to your parents...
+what a well-taught boy you are!
+##
+
+#Message#
+\.However, we are in a very peculiar situation...
+##
+
+#Message#
+\.I suppose it’s up to the grown-ups to prove that 
+we’re not... suspicious characters...
+##
+
+#Message#
+\.Sounds kinda suspicious, woof...
+##
+
+#Message#
+\.Looks like there’s nothing for it. Who should we 
+start with?
+##
+
+-----Page3-----
+#Message#
+\.「あ…ボクもそろそろ自己紹介した方がいいよね」
+##
+
+#Message#
+\.「じゃあボクも空気読むワン！
+　それが大人の対応ってやつニャン！」
+##
+

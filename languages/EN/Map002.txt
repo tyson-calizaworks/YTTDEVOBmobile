@@ -1,0 +1,28 @@
+=====Map2===== (OP2)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+Ugh…
+##
+
+#Message#
+\.That was a weird dream…
+##
+
+#Message#
+\.My jaw hurts…
+##
+
+#Message#
+\.I must have slept with my head on the desk again…
+##
+
+#Message#
+\.It’s gotten really late… I need to get home…
+##
+
+#Message#
+\.… Better hurry…
+##
+

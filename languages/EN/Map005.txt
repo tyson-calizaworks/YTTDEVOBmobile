@@ -1,0 +1,216 @@
+=====Map5===== (OP5)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+Hah... Hah... Hah...
+##
+
+#Message#
+\.Hah...Hah...phew!
+##
+
+#Message#
+\.We made it!
+##
+
+#Message#
+\.「…」
+##
+
+#Message#
+\.I-it’s gonna be okay. We’re safe now.
+##
+
+#Message#
+\.Joe...
+##
+
+#Choice#
+I'm glad.
+I'm scared...
+##
+
+<I'm glad.>
+
+#Message#
+\.I’m glad. I don’t even wanna think about how 
+that would’ve gone if I were by myself...
+##
+
+#Message#
+\.Heheheh...
+##
+
+<I'm scared...>
+
+#Message#
+\.I’m scared...
+##
+
+#Message#
+\.I’m so scared...Am I going to...
+##
+
+#Message#
+\.Is he gonna kill me?
+##
+
+#Message#
+\.Hey, you know I’d never let that happen to you!
+##
+
+#Message#
+\.Joe...
+##
+
+#Message#
+\.Just gimme a call, anytime. I’ll be there!
+##
+
+#Message#
+\.Besides, my army of underclassmen are always 
+prepared for battle!
+##
+
+#Message#
+\.「…」
+##
+
+#Message#
+\.\C[4](That guy was staring...)
+##
+
+#Message#
+\.\C[4](And... it seemed like...)
+##
+
+#Message#
+\.\C[4] (He was trying to talk to me...?)
+##
+
+#Message#
+Now get goin’. 
+\.Don’t wanna keep your parents waiting!
+##
+
+#Message#
+\....Yeah.
+##
+
+#Message#
+\.Hey, Joe...?
+##
+
+#Choice#
+Thank you.
+Take care...on your way back.
+##
+
+<Thank you.>
+
+#Message#
+No prob!
+##
+
+<Take care...on your way back.>
+
+#Message#
+Oh, I’m gonna!
+##
+
+#Message#
+See you in the morning!
+##
+
+#Message#
+\C[3]しかし…　もう学校で会うことは　なかった
+##
+
+#Message#
+\.\C[3]ふたりはこの夜…大きな事件に巻き込まれていくのだ…
+##
+
+#Message#
+\.\C[3]多数決デスゲーム（仮）本編に続く…
+##
+
+#Message#
+\.ということでストーリーではその後、
+倒れてる両親を発見→自室にストーカー降臨→気絶し
+起きたら見知らぬ空間でデスゲーム…
+　　　　　　　　　　　　　　　の流れになっていきます。
+##
+
+#Message#
+\.デスゲーム内では、
+①先ほどと同じ探索パートでアイテムを集めること
+②会議システムでキャラ同士が話し合い、話を進めること
+を行います。
+##
+
+#Message#
+\.このモックでは会議システムを少しだけ体験できるように
+してみましたので、どうぞこちらの会場へ。
+##
+
+#Message#
+ようこそ！
+##
+
+#Message#
+\.それでは、どうぞよろしくお願いいたします。
+##
+
+#Message#
+Alright...Guess I should head inside...
+##
+
+#Message#
+\....Hm?
+##
+
+#Message#
+\....Why are the lights off...?
+##
+
+
+**********Event3********** (mado) (10,3)
+-----Page1-----
+#Message#
+\C[3]I can see the living room through the window.
+##
+
+#Message#
+\.\C[3]But... the lights aren't on.
+##
+
+
+**********Event4********** (akari) (5,3)
+-----Page1-----
+#Message#
+\C[3]A fancy lamp lights up the front porch.
+##
+
+#Message#
+\.\C[3]...So it's not a power outage?
+##
+
+
+**********Event5********** (kura) (3,6)
+-----Page1-----
+#Message#
+\C[3]The house nameplate.
+##
+
+
+**********Event22********** (tobira) (6,5)
+-----Page1-----
+#Message#
+\C[3]My good old front door.
+##
+
+#Message#
+\.\C[3]...The door's unlocked...!
+##
+

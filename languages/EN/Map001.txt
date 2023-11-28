@@ -1,0 +1,225 @@
+=====Map1===== (OP1)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+\n<Shin HO>…
+##
+
+#Message#
+\n<Shin HO>\.Heeey~!…
+##
+
+#Message#
+What’s up?
+##
+
+#Message#
+\.Out of curiosity,
+do you know what a \C[2]majority vote\C[0] is?
+##
+
+#Choice#
+Obviously.
+I don't know.
+##
+
+<Obviously.>
+
+#Message#
+\.Ahaha, there’s no need to get mad. 
+It’s better to keep things simple when trying 
+to strike up a conversation.
+##
+
+<I don't know.>
+
+#Message#
+\.That’s a shocker!
+##
+
+#Message#
+\.It’s simple. 
+It’s when everyone comes together to make a decision, 
+and whichever choice has more votes, 
+that becomes the final outcome.
+##
+
+#Message#
+\.Oh, who do we have here?
+##
+
+#Message#
+\.I love majority votes! 
+They represent the way democracy should be, 
+letting everyone get a chance for their 
+voices to be heard! This way, everyone’s happy!
+##
+
+#Message#
+\.I hate majority votes! 
+They silence the voices of the minority! 
+The only ones who are heard are the corrupt 
+and unjust who linger beneath the surface!
+##
+
+#Message#
+Sigh…
+Sounds like a pointless argument if you ask me.
+##
+
+#Message#
+\.Just between you and me, 
+who do you agree with? 
+Mr. Blue, or Ms. Red？
+##
+
+#Choice#
+Mr. Blue
+Ms. Red
+##
+
+<Mr. Blue>
+
+#Message#
+Aww…
+She died.
+##
+
+#Message#
+\.But congratulations! 
+Looks like you supported the popular vote!
+##
+
+#Message#
+\.At the end of the day, the majority is absolute! 
+That’s how things are in today’s society.
+##
+
+<Ms. Red>
+
+#Message#
+Aww… He died.
+##
+
+#Message#
+\.But congratulations! 
+Looks like you supported the popular vote!
+##
+
+#Message#
+\.In this scenario, every supporter of the 
+majority vote will now live in fear knowing 
+they’re in the minority.
+##
+
+#Message#
+\.Wait a minute…
+##
+
+#Message#
+\.If you’re happy with this, ultimately, 
+you’re still acknowledging the good of majority 
+voting…right?
+##
+
+#Message#
+\.This is kinda tricky…
+##
+
+#Message#
+\....Hmm? What’s the matter?
+##
+
+#Message#
+If you knew that the other person would die,
+you wouldn’t have voted at all?
+##
+
+#Message#
+\.Sheesh…You won’t get anywhere with that attitude. 
+After all, that’s what this game is all about...
+##
+
+#Message#
+\....Still unsatisfied, huh?
+##
+
+#Message#
+\.Okay, how about this. 
+Let’s hold our own vote! Your opinion versus mine!
+##
+
+#Message#
+\.Alrighty then…let’s begin.
+##
+
+
+**********Event4********** (EV004) (16,0)
+-----Page1-----
+#Message#
+\.「こんにちは
+　ひとまずクリアおめでとうございます！」
+##
+
+#Message#
+\.「現在　まだ前編（ここ）までしか公開できておりません」
+##
+
+#Message#
+\.「今後アップデートで後編シナリオの追加や
+　前編の修正、イベントの改善など少しづつ
+　更新していく予定です。」
+##
+
+#Message#
+\.「また　修正の関係でアップデート前のセーブデータが
+　使えなくなる可能性もありますのでご了承ください。」
+##
+
+#Message#
+\.「…ちなみにここでセーブしておくと後編が追加された
+　時にスッと飛べるようにしようと思ってます！
+　…セーブしていきますか？」
+##
+
+#Choice#
+はい
+いいえ
+##
+
+<はい>
+
+<いいえ>
+
+#Message#
+\.「もしよろしければ　こんな所にエラーがあったよ！
+　などの報告や感想など書いていただけると　
+　とても参考になります。よろしくお願いします！」
+##
+
+#Message#
+\.※追伸「おかげさまで　現時点でもいくつかの深刻なエラー
+　を取り除くことができました！　ありがとうございます！
+　個人製作なので時間はかかりますが　ストーリーを
+　予測する等　楽しんでいただけると制作冥利に尽きます」
+##
+
+#Message#
+\.「それでは　このままタイトル画面へ戻りますが
+　よろしいですか？」
+##
+
+#Choice#
+はい
+いいえ
+##
+
+<はい>
+
+#Message#
+\.「最後までプレイして頂きありがとうございます。」
+##
+
+<いいえ>
+

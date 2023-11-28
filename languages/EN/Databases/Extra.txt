@@ -1,0 +1,20 @@
+=====Extra=====
+// Core Language Settings
+
+// The name of the language, as displayed in the options menu. (Defaults to language code if blank.)
+LanguageDisplayName=
+
+// The name of the "Language" option in the options menu.
+LanguageOptionName=English
+
+// The default font for the language. (Usually GameFont. Will use standard font of base game if not defined.)
+DefaultFont=GameFont
+
+// The standard typing speed of messages. (Default 1x. Will use 1x if not defined.)
+// Supported values: 0.125x, 0.25x, 0.5x, 0.66x, 0.75x, 0.8x, 0.9x, 1x, 1.1x, 1.125x, 1.16x, 1.2x, 1.25x, 1.33x, 1.5x, 1.66x, 2x ("x" and leading "0" can be omitted)
+MessageSpeed=1x
+
+
+// User-Defined Variables
+
+PlaceholderDataName=value

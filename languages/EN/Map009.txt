@@ -1,0 +1,195 @@
+=====Map9===== (OP7　リビング)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+\C[3]It's pitch black.
+##
+
+#Message#
+\.This is weird... They never stay out this late.
+##
+
+#Message#
+\.\C[4](I'll turn on the \C[2]lights\C[4]...!)
+##
+
+
+**********Event2********** (den) (13,3)
+-----Page1-----
+#Message#
+\C[3]The light switch.
+##
+
+#Choice#
+Turn on the lights
+Do Nothing
+##
+
+<Turn on the lights>
+
+<Do Nothing>
+
+#Message#
+\C[4](I have a bad feeling...)
+##
+
+#Choice#
+Turn on the lights!
+Do Nothing
+##
+
+<Turn on the lights!>
+
+<Do Nothing>
+
+#Message#
+\C[4](...Okay, turning them on!)
+##
+
+#Message#
+\sp[20]\at[2]...M-Mom...?\.\.
+##
+
+#Message#
+\.Mom!
+##
+
+#Message#
+\.MOM! MOM!!!
+##
+
+-----Page2-----
+#Message#
+\C[3]電気はもう点いている
+##
+
+
+**********Event3********** (haha) (13,7)
+-----Page1-----
+#Message#
+Mom! Oh my god...Mom, it’s gonna be okay!
+##
+
+#Message#
+\.\C[3]...She's breathing. It looks like she fainted.
+##
+
+#Message#
+\.W-What... I... What do I do...
+##
+
+
+**********Event4********** (EV004) (3,8)
+-----Page1-----
+#Message#
+\C[3]There's a key on the floor.
+##
+
+#Message#
+\.\C[3]Obtained \C[2]Room Key.
+##
+
+#Message#
+How’d this get here?...
+##
+
+
+**********Event6********** (EV006) (15,11)
+-----Page1-----
+#Message#
+\C[3]サラの部屋のカギだ。
+##
+
+
+**********Event12********** (TV) (6,3)
+-----Page1-----
+#Message#
+\C[3]…暗くてよくわからない。
+##
+
+-----Page2-----
+#Message#
+\.\C[3]壁掛けのテレビだ。
+##
+
+
+**********Event25********** (sya) (6,1)
+-----Page1-----
+#Message#
+\C[3]…暗くてよくわからない。
+##
+
+-----Page2-----
+#Message#
+\.\C[3]幼いころに亡くなった祖父の写真だ。
+##
+
+
+**********Event26********** (sya) (3,3)
+-----Page1-----
+#Message#
+\C[3]…暗くてよくわからない。
+##
+
+-----Page2-----
+#Message#
+\.\C[3]北海道へ家族旅行に行った時の写真だ。
+##
+
+
+**********Event27********** (hon) (2,2)
+-----Page1-----
+#Message#
+\C[3]…暗くてよくわからない。
+##
+
+-----Page2-----
+#Message#
+\.\C[3]本棚だ。お父さんの難しそうな本から漫画や雑誌まで
+特に法則なく置かれている。
+##
+
+
+**********Event35********** (tya) (5,5)
+-----Page1-----
+#Message#
+\C[3]…暗くてよくわからない。
+##
+
+-----Page2-----
+#Message#
+\.\C[3]おしゃれな器が並んでる。
+##
+
+
+**********Event37********** (boto) (7,7)
+-----Page1-----
+#Message#
+\C[3]…暗くてよくわからない。
+##
+
+-----Page2-----
+#Message#
+\.\C[3]洗ったボトルがいつもの場所に置かれている。
+##
+
+
+**********Event42********** (tobi) (10,2)
+-----Page1-----
+#Message#
+\C[3]…暗くてよくわからない。
+##
+
+-----Page2-----
+#Message#
+\.\C[3]両親の部屋につながる扉だ。
+##
+
+
+**********Event56********** (tobi2) (1,1)
+-----Page1-----
+#Message#
+\.\C[3]廊下につながる扉だ。
+##
+

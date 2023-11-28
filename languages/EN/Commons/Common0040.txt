@@ -1,0 +1,138 @@
+**********Common40********** (議題①名前・職業)
+#Message#
+\n<Blonde Man>Okay, let’s keep things simple for now.
+　We’ll state our names and occupations...
+　One at a time.
+##
+
+#Choice#
+Choose This Topic
+Back
+##
+
+<Choose This Topic>
+
+<Back>
+
+#Message#
+\n<Blonde Man>That’s the ticket.
+##
+
+#Message#
+\n<Joe>\.「……」
+##
+
+#Message#
+\n<Blonde Man>\.Mm, gotcha. Whoever’s cautious can talk later.
+　Raise your hand if you’re good to go.
+##
+
+#Message#
+\n<Man In Suit>Yes. My name is  \C[2]Kazumi Mishima\C[0].
+　I am an instructor at a certain high school...
+##
+
+#Message#
+\n<Strange Child>\.Huh...? You’re a teacher, woof?
+　The world’s going to dogs, meow.
+##
+
+#Message#
+\n<Mishima>\.Boo-hoo-hoo...
+##
+
+#Message#
+\n<Punk Lady>...Name's \C[2]Reko Yabusame\C[0].
+　...I’m a singer and a song-writer.
+##
+
+#Message#
+\n<Joe>\.Oh! I’ve seen you around in some magazines before!
+　You’re \fi THE \fi Reko Yabusame?
+##
+
+#Message#
+\.「…なあ　今そんな場合か？」
+##
+
+#Message#
+\.「すんません…」
+##
+
+#Message#
+「…私は　\C[2]佐藤 戒（サトウ カイ）\C[0]です
+　何の変哲もない　シュフです」
+##
+
+#Message#
+\.「その後ろの道具は何…？」
+##
+
+#Message#
+\.「フライパンに…　おたまに…　フライ返し…ですね」
+##
+
+#Message#
+\.「そ…そうじゃなくて…」
+##
+
+#Message#
+「オレは　\C[2]バーガーバーグ Q太郎\C[0]　や！
+　野球選手やっとるじゃ！　二軍やがな！」
+##
+
+#Message#
+\.「ほわぁ～…　だから大きいんですね」
+##
+
+#Message#
+\.「１９３ｃｍじゃ！　力には自信あるぜい」
+##
+
+#Message#
+「…他に言いたい人はいないみたいね…」
+##
+
+#Message#
+\.「それじゃーサラちゃん　詳しく話を聞きたい人に
+　色々尋ねてみてくれるかな」
+##
+
+#Message#
+\.「え…私がですか？」
+##
+
+#Message#
+\.「うん　オレみたいに警戒されてないし
+　角が立たないでしょ？」
+##
+
+#Message#
+\.「わかりました」
+##
+
+#Message#
+\C[4]（話を聞きたい人もいるけど…）
+##
+
+#Message#
+\C[4]（あの子がちょっと心配だ…）
+##
+
+#Message#
+\.\C[4]（気になった人から話しかけてみよう）
+##
+
+#Message#
+操作説明
+##
+
+#Message#
+\.人物の顔をタッチすると発言を聞くことができます。
+##
+
+#Message#
+\.\C[2]ひきだす\C[0]をタッチしてから話を聞くと
+より多くの発言を引き出すことができます。
+##
+

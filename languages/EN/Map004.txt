@@ -1,0 +1,223 @@
+=====Map4===== (OP4)
+
+**********Event1********** (EV001) (1,0)
+-----Page1-----
+#Message#
+And then… Ryoko and I finally-!
+##
+
+#Message#
+\.\C[4](How long even is this story...)
+##
+
+#Message#
+\.Hey, are you listening?！This is my love life we’re 
+talking about here!
+##
+
+#Message#
+\.\C[4](This guy's such a pain...)
+##
+
+#Choice#
+I don't care
+Did you kiss or what?
+##
+
+<I don't care>
+
+#Message#
+Get this… We HELD HANDS! Isn’t that amazing?!
+##
+
+<Did you kiss or what?>
+
+#Message#
+Ki-...!? Are you insane?
+##
+
+#Message#
+\.Only a monster would do something like that on the 
+first date... I’m not that desperate!
+##
+
+#Message#
+\.We held hands! Outrageous progress, right!?
+##
+
+#Message#
+\.Well, technically she just pulled me out of a ditch 
+I fell into... but I like to be optimistic!
+##
+
+#Message#
+\.For someone who looks the part, you really aren’t 
+the playboy type, are you?
+##
+
+#Message#
+\.Huh⁉ Whaddaya mean, “playboy?”
+##
+
+#Message#
+\.I’m hurt, man... that actually cuts pretty deep...
+##
+
+#Message#
+\.Damn it... Maybe I should go bald again like I did 
+in middle school...
+##
+
+#Message#
+\.\C[4](And now he's started moping.)
+##
+
+-----Page3-----
+#Message#
+\.\C[4](I've rarely ever walked home at this hour... 
+It feels really dark...)
+##
+
+#Message#
+What’s up? Want me to hold your hand?
+##
+
+#Message#
+\.Huh...?
+##
+
+#Choice#
+Yes
+No
+##
+
+<Yes>
+
+#Message#
+Ah- wait a minute… you’re probably just trying to 
+find a way to crush my hand again, aren’t you? 
+Not this time, Sara!
+##
+
+#Message#
+\.\C[4](It's not like I'm boasting about it...)
+##
+
+<No>
+
+#Message#
+Hey, c’mon, I was just messing with ya! 
+\.What’s with that look? 
+##
+
+#Message#
+\.Seriously though, wouldn’t this be easier if you 
+got yourself a boyfriend?
+##
+
+#Message#
+\.「…」
+##
+
+#Message#
+\.「…」
+##
+
+#Message#
+\....You haven’t gotten much sleep, right?
+’Cause of your \C[2]stalker...\C[0]
+##
+
+#Message#
+I-...Is that why you always walk home with me?
+##
+
+#Message#
+\.Du...Dumbass...I just wanted to, y’know, brag...
+##
+
+#Choice#
+Sorry.
+Thank you.
+You're a bother.
+##
+
+<Sorry.>
+
+#Message#
+\....Y’don’t need to apologize, I said it’s not like 
+that.
+##
+
+#Message#
+\.「あやまったワケじゃ…」
+##
+
+<Thank you.>
+
+#Message#
+\.Not sure what you mean, but I’ll take what I can 
+get!
+##
+
+#Message#
+\.Heehee...
+##
+
+<You're a bother.>
+
+#Message#
+\.Heheheh! Well, I’m warnin’ you now, that ain’t 
+stoppin’ anytime soon!
+##
+
+#Message#
+\.Heehee...
+##
+
+#Message#
+\.In any case, we should get goin’!
+##
+
+#Message#
+\.Your parents get all worked up when you get home 
+late, right?
+##
+
+#Message#
+\.Yeah...
+##
+
+
+**********Event2********** (hari) (15,5)
+-----Page1-----
+#Message#
+\C[3]A poster warning to watch out for strangers.
+##
+
+#Message#
+「…」
+##
+
+
+**********Event3********** (gai) (9,2)
+-----Page1-----
+#Message#
+\C[3]A faint streetlight illuminates the area.
+##
+
+
+**********Event4********** (kage) (9,6)
+-----Page1-----
+#Message#
+　　　\fs[60]\C[10]I have to run...!\|\^
+##
+
+#Message#
+Joe! Run!
+##
+
+#Message#
+\.Huh...!?
+##
+
